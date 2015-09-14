@@ -1,0 +1,28 @@
+{
+  "name": "express-react-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/felixyale/express-react-example.git"
+  },
+  "keywords": [
+    "express",
+    "react"
+  ],
+  "author": "felixyale",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/felixyale/express-react-example/issues"
+  },
+  "homepage": "https://github.com/felixyale/express-react-example#readme",
+  "devDependencies": {
+    "express": "^4.13.3",
+    "express-react-views": "^0.8.2",
+    "react": "^0.13.3"
+  }
+}
